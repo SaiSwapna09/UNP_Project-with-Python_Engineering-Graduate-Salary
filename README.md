@@ -14,4 +14,4 @@ The Random Forest model demonstrated the best performance among the tested algor
 
 COLAB Link - https://colab.research.google.com/drive/1P1NoUQIwcjX0toOX8rYq9Qq-F6LdbGAC?usp=drive_link
 
-PPT Link - https://drive.google.com/file/d/1IEmEmezz3u-H_-pvMvH_uRY3XJol6YpV/view?usp=drive_link
+PPT Link - https://drive.google.com/file/d/1IEmEmezz3u-H_-pvMvH_uRY3XJol6YpV/view?usp=sharing
