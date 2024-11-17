@@ -12,8 +12,8 @@ This project involves the use of a dataset containing 34 variables and 2998 reco
 Conclusion:
 The Random Forest model demonstrated the best performance among the tested algorithms, achieving the highest accuracy. This model provides valuable insights into the factors influencing student salaries and supports informed decision-making in career development.
 
-DATASET Link - https://drive.google.com/file/d/1v4CAIpznckbIRlzNN8W-zdzjeIBptx8A/view?usp=drive_link
-
 COLAB Link - https://colab.research.google.com/drive/1P1NoUQIwcjX0toOX8rYq9Qq-F6LdbGAC?usp=drive_link
 
 PPT Link - https://drive.google.com/file/d/1yTil2kfbei6pwkZHD9QSmT1aGQKDiB_D/view?usp=drive_link
+
+DATASET Link - https://drive.google.com/file/d/1v4CAIpznckbIRlzNN8W-zdzjeIBptx8A/view?usp=drive_link
